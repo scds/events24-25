@@ -5,43 +5,38 @@ nav_order: 1
 has_toc: false
 
 # Set this to "false" if you removed 'previousOffering.md'
-has_children: true 
+has_children: false 
 ---
-<!-- 
-This will be the home page of your module. It should give a small introduction to the student about the workshop topic.
-Add, edit, or remove any content below for the workshop in question. -->
 
-<!-- Title slide image. Replace img src with your own, or comment this out. -->
+{%- assign workshops = site.pages 
+    | where_exp: "item", "item.grand_parent == null"
+    | where_exp: "item", "item.parent == null"
+    | where_exp: "item", "item.nav_exclude != true"
+    | sort: "title" 
+-%}
+
 <img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
-# Getting started with ___.
+# Welcome to the 2024-2025 Special Events Page
 
-This is a short description about the topic of the workshop. Replace this text with your own.
+This page contains event recordings of some special events that were held in the 2024-2025 year offering.
 
-In this tutorial, you will learn about ______.
+## 2024-25 Special Events
 
-## Prerequisites
+<div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
+<summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
+  Workshops
+</summary>
+<ul>
+{% for workshop in workshops %}
+{% if workshop.title != null and workshop.title != "Home" %}
+<li><a href="{{workshop.url | absolute_url}}">{{workshop.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
 
-<!-- If creating or installing is covered in the module (preparation), mention that in brackets. -->
-- A [GitHub.com](https://www.github.com) account.
-- Installation of [Python](https://www.python.org/downloads/). (This will be covered in the [Preparation](preparation) page)
-- Some familiary with **softwareName/topic here**
+## Land Acknowledgment
 
-<!-- What will the student learn to do, learn to use, etc. -->
-## Learning Objectives
-By the end of this workshop, you will be able to:
-- Learning objective 1
-- Learning objective 2
-- Learning objective 3
-- Learning objective 4
-- You can add more here.
-
-<!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
-## Duration (optional)
-This module will take around 1 to 2 hours, however feel free to work at your own pace!
-
-## Land Acknowledgement
-
-<!-- Grabs the default SCDS land acknowledgment. If you want to use a custom one, replace this line with it. -->
 {% include def/land_ack.md %}

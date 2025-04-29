@@ -1,0 +1,67 @@
+---
+layout: minimal
+title: "Zine - How to Build Feminist AI"
+nav_exclude: true
+---
+
+<!doctype html>
+<html  lang="en">
+<head>
+<meta name="viewport" content="width = 1280, user-scalable = no" />
+<script type="text/javascript" src="../turnjs4/extras/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="../turnjs4/extras/modernizr.2.5.3.min.js"></script>
+</head>
+<body>
+
+<div class="flipbook-viewport" style="height: 100vh">
+<div class="container">
+	<div class="flipbook">
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page1.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page2.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page3.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page4.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page5.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page6.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page7.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page8.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page9.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page10.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page11.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page12.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page13.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page14.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page15.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page16.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page17.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page18.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page19.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/all_ai_is_local/page20.png); background-size: 100% 100%;"></div>
+	</div>
+</div>
+</div>
+
+<script type="text/javascript">
+
+
+function loadApp() {
+	$('.flipbook').turn({
+			width: 1090,
+			height: 780,
+			elevation: 50,
+			gradients: true,
+			autoCenter: true
+	});
+}
+
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['../turnjs4/lib/turn.js'],
+	nope: ['../turnjs4/lib/turn.html4.min.js'],
+	both: ['../turnjs4/all_ai_is_local.css'],
+	complete: loadApp
+});
+
+</script>
+
+</body>
+</html>

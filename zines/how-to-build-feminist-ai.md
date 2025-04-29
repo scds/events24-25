@@ -33,11 +33,11 @@ parent: "Zines as Critical Data"
 <a href="how-to-not-cheat-with-chatgpt-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/How_to_(not)_Cheat_with_ChatGPT.pdf" target="_blank">view as a PDF.</a>  
 *Click or drag the corners of the zine to flip the pages*
 
-# How to (Not) Cheat with ChatGPT
+# How to Build Feminist AI
 
-This zine is entitled *How to (Not) Cheat with ChatGPT* and discusses the use of generative artificial intelligence (GenAI) in education, specifically higher education. The word “Cheat” in the title is a commentary on how educators often perceive using ChatGPT as a form of academic fraud. “Cheat” can also mean that readers of this zine are cheating the dominant narratives on ChatGPT by being counter-hegemonic to the prohibition of GenAI in higher education. The “(Not)” in the title indicates that this zine does not provide ways to cheat with ChatGPT. Indeed, this zine tackles how ChatGPT and similar GenAI can be used efficiently and non-fraudulently by students (and educators) for education.  
+(information about zine)  
 
-\- Mélina Nzeza
+\- Yun Guo
 
 ## Event Segment Recording
 

@@ -7,26 +7,26 @@ parent: "Zines as Critical Data"
 
 <div class="container">
 <div class="flipbook" style="z-index: 7">
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page1.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page2.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page3.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page4.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page5.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page6.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page7.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page8.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page9.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page10.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page11.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page12.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page13.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page14.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page15.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page16.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page17.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page18.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page19.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_not_cheat_with_chatgpt/page20.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_femnist_ai/page1.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page2.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page3.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page4.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page5.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page6.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page7.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page8.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page9.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page10.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page11.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page12.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page13.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page14.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page15.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page16.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page17.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page18.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page19.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page20.png); background-size: 100% 100%;"></div>
 </div>
 </div>
 

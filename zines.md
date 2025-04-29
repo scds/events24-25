@@ -4,7 +4,7 @@ title: "Zines as Critical Data"
 nav_order: 0
 has_toc: false
 
-has_children: true 
+has_children: false 
 ---
 
 <img src="assets/img/zines.png" alt="Workshop Title Slide" width="100%">

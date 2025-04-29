@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Zines as Critical Data"
-nav_order: 202504151030
+nav_order: 6
 has_toc: false
 
 has_children: true 

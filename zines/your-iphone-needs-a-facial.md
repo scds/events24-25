@@ -35,7 +35,7 @@ parent: "Zines as Critical Data"
 
 # Your iPhone Needs a Facial
 
-(information about zine)  
+*Your iPhone Needs a Facial* explores the often-neglected privacy considerations of the iPhone’s default settings. Specifically, the zine investigates the central question: How does Apple's interface design and default settings create an illusion of privacy while simultaneously enabling extensive data exploitation? The zine adopts ‘privacy facial’ as a metaphor to make privacy issues more approachable and actionable for iPhone users by framing privacy maintenance as self-care. It links individual privacy concerns to broader socio-political considerations about data ownership, consent, and corporate power. It treats the iPhone as a technological device and a site where power relations manifest through deliberate design decisions. 
 
 \- Jessica Avery
 

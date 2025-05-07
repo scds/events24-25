@@ -4,34 +4,30 @@
 *nav_order: 5
 *has_toc: false
 
-has_children: false 
+*has_children: true 
 ---
 
 <img src="assets/img/zines.png" alt="Workshop Title Slide" width="100%">
 
 # Zines as Critical Data
 
-In order to challenge, interrupt and reframe how data cultures are represented and understood in dominant narratives and mainstream society, this panel will present diverse zine projects that engage with data in innovative ways. A zine is a multimodal work, including text, images, and design elements, typically around sixteen to twenty pages of content on an overarching topic. Janice Radway (2011) suggests that zines produce “fluid, contradictory, even fragmented subjects” to provide alternative readings and oppositional perspectives of data environments (p. 148).  
+This module showcases the zines and presentations produced for Data Cultures, a graduate course offered in winter 2025 by the Department of Communication Studies and Media Arts at McMaster University.
 
-Zines offer a unique platform for critical analysis where complex phenomena can be assessed, confronted and reimagined. In the era of Big Data, mass data collection by various bodies has become common practice. With advancements in artificial intelligence (AI), machine learning, and refined algorithms, data can be utilized in ever-expanding ways to both the benefit and detriment of corporations, governments, and citizens.  
+## The Course: Data Cultures
 
-Each zine will emphasize how data can transform in different contexts and provide a lens to explore data futures in alternative ways.  
+Data Cultures interrogated how nearly every aspect of contemporary life is captured, controlled, organized, and valorized as data. We examined broad patterns of meaning and practice that shape how private and public sector institutions adopt and apply data-driven technologies in increasingly expansive ways. The core questions organizing the course were: What new technoscientific imaginaries, narratives, and futures are envisioned through data-driven rationalities? How are imaginaries about data-driven progress institutionally stabilized, collectively held, and publicly performed? How are visions about the future embedded in support of advancements in data-driven approaches? To this end, we considered how data-driven rationalities are presented as neutral and natural expansions of scientific reasoning that render (and predict) the future as knowable. We challenged our thinking about the current trajectory of AI by considering how the version we have inherited is only one version of AI driven by Big Tech US imperialism. More importantly, we imagined what other versions of AI could exist instead. 
 
-This event explores a range of perspectives on how data is negotiated within the confines of race, ethics, representation, power, and discourse. When thinking about power we need to think about the ways of knowing and ways of being as an interconnected process. More importantly, questioning who has access to knowledge production. The diverse range of topics presented here today showcases the capacity of scholars to produce alternative data cultures that inform the present in unique ways. To present counternarratives and oppositional readings, these zine projects dynamically inform each other and offer new perspectives on seemingly normative data structures.
+The zines and accompanying presentations broadly examine ‘zines as critical data’. Topics include feminist AI futures, data insecurities, surveillance and tracking, the codification and entrapment of our realities through algorithms, digital exclusions and the new high-tech, data-driven border industrial complex. 
 
-Presenters: 
+## A (Very) Brief Introduction to Zines
 
-Yun Guo, How to Build Feminist AI 
+A zine is a small, self-published booklet that integrates original and appropriated content. Its structure is quite fluid. Zines have long served as platforms for self-expression, community building, activism, and knowledge sharing. For example, the amateur press and political pamphleteering of the late 19th and early 20th centuries share with zines the intention of circulating knowledge outside institutional control. In the 1920s, during the Harlem Renaissance, ‘little magazines’ such as Fire were mediums for Black writers and artists to circumvent mainstream racist literary infrastructures. Science fiction participatory fan communities in the 1930s created fan magazines (fanzines) to engage more directly with the material and one another. Coinciding with the rise of photocopying technology, which made producing and distributing material easier, zines became central to the punk underground scene in the 1970s and 80s, embodying the do-it-yourself (DIY) ethos with an unpolished aesthetic. In the 1990s, zines evolved further, becoming an integral part of the riot grrrl movement. These zines were understood to be platforms for self-expression, activism, and community building while providing necessary critiques of the movement as overly representative of the experiences of middle-class white girls. In short, zines have a rich and diverse history and continue to be tools for communities overlooked, marginalized, and misrepresented in mainstream culture. 
 
-Jessica Avery, Your iPhone Needs a Facial 
+## Zines and Scholarship
 
-Nathan Powell, Staying Safe on the Information Superhighway 
+We invite you to consider the potential of zines in reshaping knowledge production. How do zines challenge academic authority: who is deemed an expert and whose knowledge is considered worthy of producing and reproducing? How can we utilize zines to subvert academic methods—research methods, methods of knowledge production, notions of expertise, and consumption practices? How can zines and other non-traditional forms of research output foster an academic gift economy that resists rankings, capitalist information, and commodity exchange? 
 
-Lauren Paul, Brick by Brick 
-
-Riley Willliamson, Are These Cookies as Sweet as They Seem? 
-
-Serra Hasiloglu, Border Corrupted 
+*Andrea Zeffiro*
 
 ## Event Recording
 

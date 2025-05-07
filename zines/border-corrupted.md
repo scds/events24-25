@@ -35,9 +35,9 @@ parent: "Zines as Critical Data"
 
 # Border Corrupted
 
-(information about zine)  
+*Border Corrupted* investigates Canada’s border regime, focusing on the deployment of data-driven surveillance technologies at the Canada-US border. The zine argues that these technologies perpetuate carcerality and racial capitalism as they intimidate, monitor, extract data from, and exploit racialized migrant others while ‘protecting’ wealthy white citizens and the interests of Big Tech. 
 
-\- Serra Hasiloglu
+\- Saadet Serra Hasiloglu
 
 ## Event Segment Recording
 

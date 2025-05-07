@@ -35,7 +35,7 @@ parent: "Zines as Critical Data"
 
 # Staying Safe on the Information Superhighway
 
-(information about zine)  
+*Staying Safe on the Information Superhighway* is an instructional zine on cybersecurity that provides an overview of reasonable “best practices” for protecting one’s data. The format of this zine is inspired by the *Haynes Guide* series of repair manuals; similarly, it offers no-nonsense advice to readers who have an above-average familiarity with basic upkeep but may need reminders about more advanced threats. *Staying Safe* promotes critical engagement between readers and the web platforms they use.
 
 \- Nathan Powell
 

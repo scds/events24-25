@@ -35,7 +35,7 @@ parent: "Zines as Critical Data"
 
 # How to Build Feminist AI
 
-(information about zine)  
+*How to Build Feminist AI* examines gender bias in AI, particularly domestic AI, and explores the possibility of envisioning an alternative feminist AI. This zine frames the discussion within the context of scholarship on feminist AI and Marxist feminist discourse on domestic labour. By utilizing the methods of design justice and speculative futurities, the zine ultimately invites readers to participate in imagining and designing the domestic feminist AI. By highlighting that zines can play a crucial role in community building, this zine encourages and gathers diverse ideas of alternative visions from both current and future users of domestic AI assistants.
 
 \- Yun Guo
 

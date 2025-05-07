@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Brick by Brick"
-nav_order: 4
+nav_order: 5
 parent: "Zines as Critical Data"
 ---
 
@@ -35,7 +35,7 @@ parent: "Zines as Critical Data"
 
 # Brick by Brick
 
-(information about zine)  
+*Brick by Brick* is a guide for adults aged 55 and older to shape their social media algorithms, focusing on privacy, security, and surveillance. This zine addresses essential topics, including digital exclusion, the workings of Instagram’s algorithm, privacy settings, and the positive ways Instagram can foster connection and community.
 
 \- Lauren Paul
 

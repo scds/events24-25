@@ -23,10 +23,6 @@ parent: "Zines as Critical Data"
 <div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page14.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page15.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page16.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page17.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page18.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page19.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page20.png); background-size: 100% 100%;"></div>
 </div>
 </div>
 

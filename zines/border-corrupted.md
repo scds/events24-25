@@ -27,6 +27,10 @@ parent: "Zines as Critical Data"
 <div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page18.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page19.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page20.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page21.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page22.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page23.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page24.png); background-size: 100% 100%;"></div>
 </div>
 </div>
 

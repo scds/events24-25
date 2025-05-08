@@ -23,10 +23,6 @@ parent: "Zines as Critical Data"
 <div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page14.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page15.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page16.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page17.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page18.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page19.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page20.png); background-size: 100% 100%;"></div>
 </div>
 </div>
 

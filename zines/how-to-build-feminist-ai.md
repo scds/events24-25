@@ -27,6 +27,8 @@ parent: "Zines as Critical Data"
 <div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page18.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page19.png); background-size: 100% 100%;"></div>
 <div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page20.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page21.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page22.png); background-size: 100% 100%;"></div>
 </div>
 </div>
 

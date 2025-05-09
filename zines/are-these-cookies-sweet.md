@@ -26,7 +26,7 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="how-to-not-cheat-with-chatgpt-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Are_these_Cookies_as_Sweet_as_they_Seem_Williamson.pdf" target="_blank">view as a PDF.</a>  
+<a href="are-these-cookies-sweet-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Are_these_Cookies_as_Sweet_as_they_Seem_Williamson.pdf" target="_blank">view as a PDF.</a>  
 *Click or drag the corners of the zine to flip the pages*
 
 # Are These Cookies as Sweet as They Seem?
@@ -38,8 +38,8 @@ parent: "Zines as Critical Data"
 
 ## Event Segment Recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public"></iframe>
-[View original here.](https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public)
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/ab10d112-e9d7-4818-bf8d-a8070367a9c0/public"></iframe>
+[View original here.](https://echo360.ca/media/ab10d112-e9d7-4818-bf8d-a8070367a9c0/public)
 
 
 

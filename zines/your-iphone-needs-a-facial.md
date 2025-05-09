@@ -26,7 +26,7 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="how-to-not-cheat-with-chatgpt-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/How_to_(not)_Cheat_with_ChatGPT.pdf" target="_blank">view as a PDF.</a>  
+<a href="your-iphone-needs-a-facial-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Your_iPhone_Needs_a_Facial_Avery.pdf" target="_blank">view as a PDF.</a>  
 *Click or drag the corners of the zine to flip the pages*
 
 # Your iPhone Needs a Facial
@@ -37,8 +37,9 @@ parent: "Zines as Critical Data"
 
 ## Event Segment Recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public"></iframe>
-[View original here.](https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public)
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/d99ee7bf-21da-49f8-b600-3081fac0e72d/public"></iframe>
+[View original here.](https://echo360.ca/media/d99ee7bf-21da-49f8-b600-3081fac0e72d/public)
+
 
 
 

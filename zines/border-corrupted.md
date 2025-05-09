@@ -34,7 +34,7 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="how-to-not-cheat-with-chatgpt-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Border_Corrupted_Hasiloglu.pdf" target="_blank">view as a PDF.</a>  
+<a href="border-corrupted-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Border_Corrupted_Hasiloglu.pdf" target="_blank">view as a PDF.</a>  
 *Click or drag the corners of the zine to flip the pages*
 
 # Border Corrupted
@@ -45,10 +45,8 @@ parent: "Zines as Critical Data"
 
 ## Event Segment Recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public"></iframe>
-[View original here.](https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public)
-
-
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/7bf3a649-58e0-4b03-842a-2580020c7f85/public"></iframe>
+[View original here.](https://echo360.ca/media/7bf3a649-58e0-4b03-842a-2580020c7f85/public)
 
 
 

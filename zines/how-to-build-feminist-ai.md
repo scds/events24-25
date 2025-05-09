@@ -32,7 +32,7 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="how-to-not-cheat-with-chatgpt-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/How_to_(not)_Cheat_with_ChatGPT.pdf" target="_blank">view as a PDF.</a>  
+<a href="how-to-build-feminist-ai-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/How_to_(not)_Cheat_with_ChatGPT.pdf" target="_blank">view as a PDF.</a>  
 *Click or drag the corners of the zine to flip the pages*
 
 # How to Build Feminist AI
@@ -43,14 +43,8 @@ parent: "Zines as Critical Data"
 
 ## Event Segment Recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public"></iframe>
-[View original here.](https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public)
-
-<iframe height="420" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a2793fbf-4e6b-4ceb-867b-61e8457d8f31/public?autoplay=false&automute=false"></iframe>
-
-
-
-
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/48e700d9-1c66-4edb-a839-bea563bd79eb/public"></iframe>
+[View original here.](https://echo360.ca/media/48e700d9-1c66-4edb-a839-bea563bd79eb/public)
 
 
 

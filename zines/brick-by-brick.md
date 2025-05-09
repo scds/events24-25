@@ -26,7 +26,7 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="brick-by-brick-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/How_to_(not)_Cheat_with_ChatGPT.pdf" target="_blank">view as a PDF.</a>  
+<a href="brick-by-brick-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Brick_by_Brick_Paul.pdf" target="_blank">view as a PDF.</a>  
 *Click or drag the corners of the zine to flip the pages*
 
 # Brick by Brick

@@ -26,7 +26,7 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="how-to-not-cheat-with-chatgpt-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/How_to_(not)_Cheat_with_ChatGPT.pdf" target="_blank">view as a PDF.</a>  
+<a href="brick-by-brick-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/How_to_(not)_Cheat_with_ChatGPT.pdf" target="_blank">view as a PDF.</a>  
 *Click or drag the corners of the zine to flip the pages*
 
 # Brick by Brick
@@ -37,17 +37,8 @@ parent: "Zines as Critical Data"
 
 ## Event Segment Recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public"></iframe>
-[View original here.](https://echo360.ca/media/971c9d6a-0c32-409a-96de-9263cf6f0b90/public)
-
-
-
-
-
-
-
-
-
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/f4dd90b3-d679-4924-80b5-2efbd97cb051/public"></iframe>
+[View original here.](https://echo360.ca/media/f4dd90b3-d679-4924-80b5-2efbd97cb051/public)
 
 
 

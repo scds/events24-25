@@ -1,10 +1,10 @@
 ---
-*layout: default
-*title: "Zines as Critical Data"
-*nav_order: 5
-*has_toc: false
+layout: default
+title: "Zines as Critical Data"
+nav_order: 5
+has_toc: false
 
-*has_children: true 
+has_children: true 
 ---
 
 <img src="assets/img/zines.png" alt="Workshop Title Slide" width="100%">

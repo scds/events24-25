@@ -34,8 +34,8 @@ We invite you to consider the potential of zines in reshaping knowledge producti
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/97dd6935-8a19-4fa2-862c-1946ac791ce0/public"></iframe>
 [View original here.](https://echo360.ca/media/97dd6935-8a19-4fa2-862c-1946ac791ce0/public)
 
-## Event Slides
+<!--## Event Slides
 
 <embed src="assets/docs/Zines_Slides.pdf" style="border:none;" width="100%" height="466px">
 
-[Download as PDF.](assets/docs/Zines_Slides.pdf)
+[Download as PDF.](assets/docs/Zines_Slides.pdf)-->

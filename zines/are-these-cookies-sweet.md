@@ -26,7 +26,7 @@ parent: "Zines as Critical Data"
 </div>
 </div>
 
-<a href="are-these-cookies-sweet-zine" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Are_these_Cookies_as_Sweet_as_they_Seem_Williamson.pdf" target="_blank">view as a PDF.</a>  
+<a href="are-these-cookies-sweet-zine.html" target="_blank">Open zine in new tab</a> or <a href="../assets/docs/Are_these_Cookies_as_Sweet_as_they_Seem_Williamson.pdf" target="_blank">view as a PDF.</a>  
 *Click or drag the corners of the zine to flip the pages*
 
 # Are These Cookies as Sweet as They Seem?

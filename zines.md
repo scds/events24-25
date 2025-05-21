@@ -29,10 +29,10 @@ We invite you to consider the potential of zines in reshaping knowledge producti
 
 *Andrea Zeffiro*
 
-## Event Recording
+<!--## Event Recording
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/97dd6935-8a19-4fa2-862c-1946ac791ce0/public"></iframe>
-[View original here.](https://echo360.ca/media/97dd6935-8a19-4fa2-862c-1946ac791ce0/public)
+[View original here.](https://echo360.ca/media/97dd6935-8a19-4fa2-862c-1946ac791ce0/public)-->
 
 <!--## Event Slides
 

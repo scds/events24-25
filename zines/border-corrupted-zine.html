@@ -1,1 +1,72 @@
+---
+layout: minimal
+title: "Border Corrupted"
+nav_exclude: true
+---
+
+<!doctype html>
+<html  lang="en">
+<head>
+<meta name="viewport" content="width = 1280, user-scalable = no" />
+<script type="text/javascript" src="../turnjs4/extras/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="../turnjs4/extras/modernizr.2.5.3.min.js"></script>
+</head>
+<body>
+
+<div class="flipbook-viewport" style="height: 100vh">
+<div class="container">
+	<div class="flipbook">
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page1.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page2.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page3.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page4.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page5.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page6.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page7.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page8.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page9.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page10.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page11.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page12.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page13.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page14.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page15.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page16.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page17.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page18.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page19.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page20.png); background-size: 100% 100%;"></div>
+        <div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page21.png); background-size: 100% 100%;"></div>
+        <div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page22.png); background-size: 100% 100%;"></div>
+        <div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page23.png); background-size: 100% 100%;"></div>
+        <div class="sheet" style="background-image:url(../assets/img/zines/border-corrupted/page24.png); background-size: 100% 100%;"></div>
+	</div>
+</div>
+</div>
+
+<script type="text/javascript">
+
+
+function loadApp() {
+	$('.flipbook').turn({
+			width: 1090,
+			height: 780,
+			elevation: 50,
+			gradients: true,
+			autoCenter: true
+	});
+}
+
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['../turnjs4/lib/turn.js'],
+	nope: ['../turnjs4/lib/turn.html4.min.js'],
+	both: ['../turnjs4/border-corrupted.css'],
+	complete: loadApp
+});
+
+</script>
+
+</body>
+</html>
 

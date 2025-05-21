@@ -1,1 +1,65 @@
+---
+layout: minimal
+title: "Staying Safe on the Information Superhighway"
+nav_exclude: true
+---
+
+<!doctype html>
+<html  lang="en">
+<head>
+<meta name="viewport" content="width = 1280, user-scalable = no" />
+<script type="text/javascript" src="../turnjs4/extras/jquery.min.1.7.js"></script>
+<script type="text/javascript" src="../turnjs4/extras/modernizr.2.5.3.min.js"></script>
+</head>
+<body>
+
+<div class="flipbook-viewport" style="height: 100vh">
+<div class="container">
+	<div class="flipbook">
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page1.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page2.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page3.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page4.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page5.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page6.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page7.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page8.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page9.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page10.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page11.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page12.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page13.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page14.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page15.png); background-size: 100% 100%;"></div>
+		<div class="sheet" style="background-image:url(../assets/img/zines/your_iphone_needs_a_facial/page16.png); background-size: 100% 100%;"></div>
+	</div>
+</div>
+</div>
+
+<script type="text/javascript">
+
+
+function loadApp() {
+	$('.flipbook').turn({
+			width: 1090,
+			height: 780,
+			elevation: 50,
+			gradients: true,
+			autoCenter: true
+	});
+}
+
+yepnope({
+	test : Modernizr.csstransforms,
+	yep: ['../turnjs4/lib/turn.js'],
+	nope: ['../turnjs4/lib/turn.html4.min.js'],
+	both: ['../turnjs4/your_iphone_needs_a_facial.css'],
+	complete: loadApp
+});
+
+</script>
+
+</body>
+</html>
+
 

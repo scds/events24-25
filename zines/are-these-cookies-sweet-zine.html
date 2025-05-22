@@ -45,9 +45,9 @@ nav_exclude: true
 
 function loadApp() {
 	$('.flipbook').turn({
-			width: $('.container').width() ,
-			height: $('.container').width()/2*1.29473684,
-			elevation: 0,
+			width: 1090,
+			height: 780,
+			elevation: 50,
 			gradients: true,
 			autoCenter: true
 	});
@@ -61,11 +61,7 @@ yepnope({
 	complete: loadApp
 });
 
-$( window ).on( "resize", function() {
-  $('.flipbook').turn('size', $('.flipbook-viewport').width(), $('.flipbook-viewpor').width()/2*1.29473684)
-} );
-
-
 </script>
+
 </body>
 </html>

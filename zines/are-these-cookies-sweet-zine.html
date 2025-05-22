@@ -7,7 +7,7 @@ nav_exclude: true
 <!doctype html>
 <html  lang="en">
 <head>
-<meta name="viewport" content="width = 1280, user-scalable = no" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <script type="text/javascript" src="../turnjs4/extras/jquery.min.1.7.js"></script>
 <script type="text/javascript" src="../turnjs4/extras/modernizr.2.5.3.min.js"></script>
 </head>
@@ -45,8 +45,8 @@ nav_exclude: true
 
 function loadApp() {
 	$('.flipbook').turn({
-			width: $('.container').width() ,
-			height: $('.container').width()/2*1.29473684,
+			width: $('.container').width()*2/1.29473684,
+			height: $('.container').height(),
 			elevation: 0,
 			gradients: true,
 			autoCenter: true

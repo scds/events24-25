@@ -13,35 +13,31 @@ nav_exclude: true
 </head>
 <body>
 
-<div class="flipbook-viewport" style="height: 100vh">
+
 <div class="container">
-	<div class="flipbook">
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page1.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page2.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page3.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page4.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page5.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page6.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page7.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page8.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page9.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page10.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page11.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page12.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page13.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page14.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page15.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page16.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page17.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page18.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page19.png); background-size: 100% 100%;"></div>
-		<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page20.png); background-size: 100% 100%;"></div>
-	</div>
+<div class="flipbook" style="z-index: 7">
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page1.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page2.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page3.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page4.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page5.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page6.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page7.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page8.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page9.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page10.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page11.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page12.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page13.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page14.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page15.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/are-these-cookies-sweet/page16.png); background-size: 100% 100%;"></div>
 </div>
 </div>
+
+
 
 <script type="text/javascript">
-
 
 function loadApp() {
 	$('.flipbook').turn({
@@ -57,7 +53,7 @@ yepnope({
 	test : Modernizr.csstransforms,
 	yep: ['../turnjs4/lib/turn.js'],
 	nope: ['../turnjs4/lib/turn.html4.min.js'],
-	both: ['../turnjs4/are-these-cookies-sweet.css'],
+	both: ['../turnjs4/flipbook.css'],
 	complete: loadApp
 });
 
@@ -65,7 +61,7 @@ $( window ).on( "resize", function() {
   $('.flipbook').turn('size', $('.container').width(), $('.container').width()/2*1.29473684)
 } );
 
-
 </script>
+
 </body>
 </html>

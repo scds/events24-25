@@ -7,28 +7,28 @@ parent: "Zines as Critical Data"
 
 <div class="container">
 <div class="flipbook" style="z-index: 7">
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page1.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page2.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page3.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page4.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page5.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page6.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page7.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page8.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page9.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page10.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page11.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page12.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page13.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page14.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page15.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page16.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page17.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page18.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page19.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page20.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page21.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page22.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page1.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page2.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page3.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page4.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page5.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page6.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page7.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page8.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page9.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page10.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page11.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page12.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page13.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page14.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page15.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page16.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page17.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page18.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page19.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page20.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page21.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/how_to_build_feminist_ai/page22.jpg); background-size: 100% 100%;"></div>
 </div>
 </div>
 

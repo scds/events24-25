@@ -7,30 +7,30 @@ parent: "Zines as Critical Data"
 
 <div class="container">
 <div class="flipbook" style="z-index: 7">
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page1.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page2.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page3.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page4.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page5.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page6.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page7.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page8.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page9.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page10.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page11.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page12.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page13.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page14.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page15.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page16.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page17.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page18.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page19.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page20.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page21.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page22.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page23.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page24.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page1.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page2.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page3.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page4.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page5.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page6.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page7.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page8.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page9.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page10.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page11.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page12.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page13.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page14.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page15.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page16.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page17.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page18.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page19.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page20.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page21.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page22.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page23.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/border_corrupted/page24.jpg); background-size: 100% 100%;"></div>
 </div>
 </div>
 

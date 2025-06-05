@@ -7,26 +7,26 @@ parent: "Zines as Critical Data"
 
 <div class="container">
 <div class="flipbook" style="z-index: 7">
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page1.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page2.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page3.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page4.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page5.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page6.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page7.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page8.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page9.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page10.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page11.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page12.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page13.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page14.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page15.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page16.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page17.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page18.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page19.png); background-size: 100% 100%;"></div>
-<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page20.png); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page1.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page2.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page3.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page4.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page5.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page6.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page7.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page8.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page9.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page10.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page11.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page12.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page13.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page14.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page15.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page16.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page17.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page18.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page19.jpg); background-size: 100% 100%;"></div>
+<div class="sheet" style="background-image:url(../assets/img/zines/staying_safe_on_info_superhighway/page20.jpg); background-size: 100% 100%;"></div>
 </div>
 </div>
 

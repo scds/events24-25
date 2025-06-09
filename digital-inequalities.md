@@ -21,8 +21,8 @@ Dr. Quan-Haase is a Professor and Associate Dean of Graduate and Postdoctoral, S
 
 ## Event Recording
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/97dd6935-8a19-4fa2-862c-1946ac791ce0/public"></iframe>
-[View original here.](https://echo360.ca/media/97dd6935-8a19-4fa2-862c-1946ac791ce0/public)
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8880d11a-eb99-4a89-8bbe-efe5b5fe3dae/public"></iframe>
+[View original here.](https://echo360.ca/media/8880d11a-eb99-4a89-8bbe-efe5b5fe3dae/public)
 
 <!--## Event Slides
 

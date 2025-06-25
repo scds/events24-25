@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "	
-Digital Inequalities: Aging and Social Connectedness in an Increasingly Online World"
-nav_exclude: true
+title: "Digital Inequalities: Aging and Social Connectedness in an Increasingly Online World"
+
 ---
 
 <img src="assets/img/digital-inequalities.png" alt="Workshop Title Slide" width="100%">
